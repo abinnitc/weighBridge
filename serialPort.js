@@ -16,3 +16,6 @@ function readSerialData(data){
     // 
     console.log(data.toString('utf8',2,8));
 }
+
+
+// 
